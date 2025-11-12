@@ -150,6 +150,4 @@ Created three-tier dashboard architecture:
 
 This project is part of Rakamin Academy's Project-Based Internship program.
 
-⭐ **If you found this project helpful, please give it a star!**
-
 **#PastiBerImpact** | **#ProjectBasedInternship** | **#RakaminAcademy**
